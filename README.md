@@ -1,4 +1,4 @@
-🔗 Installation Process
+# 🔗 Installation Process
 
 1.  Install [Python](https://python.org/download)
 2.  Copy the repo
